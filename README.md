@@ -3,5 +3,5 @@
 
 website is successfully hosted 
 
-<h1><a href="http://weather-app-nodeexpress.herokuapp.com/weather" target="_blank">Click here to See the Website</a></h1>
+<h1><a href="http://weather-app-nodeexpress.herokuapp.com" target="_blank">Click here to See the Website</a></h1>
 </pre>
